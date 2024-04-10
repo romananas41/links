@@ -6,21 +6,6 @@ p{
   color: mediumseagreen;
   text-align: center;
 }
-.al{
-  text-decoration: none;
-  font-size: 24px;
-  border: 5px solid darkcyan;
-  color: darkcyan;
-  background-color: lightgoldenrodyellow;
-  padding: 5px;
-}
-.a1:hover{
-  border: 5px solid lightgoldenrodyellow;
-  color: lightgoldenrodyellow;
-  background-color: darkcyan;
-  font-weight: 700;
-  box-shadow: 5px -5px darkcyan;
-}
 .b1{
   font-size: 24px;
   font-family: cursive;
