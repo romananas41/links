@@ -1,38 +1,3 @@
-/* body{
-    background-color: lightblue;
-}
-p{
-    font-size: 50px;
-    color: aquamarine;
-    text-align: center;
-}
-.al{
-    text-decoration: none;
-    font-size: 24px;
-    border: 5px solid blue;
-    color: blue;
-    background-color: yellow;
-    padding: 5px;
-}
-.a1:hover{
-    border: 5px solid yellow;
-    color: yellow;
-    background-color: blue;
-    font-weight: 700;
-    box-shadow: 5px -5px blue;
-}
-.b1{
-    font-size: 24px;
-    font-family: cursive;
-    border: 5px double violet;
-    border-radius: 50%;
-    padding: 15px;
-    background-color: fuchsia;
-}
-.b1:hover{
-    text-transform: uppercase;
-    background-color: blueviolet;
-} */
 body{
   background-color: peachpuff;
 }
